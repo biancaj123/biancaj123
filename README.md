@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biancaj123
-- 👀 I’m interested in information decurity
+- 👀 I’m interested in information security
 - 🌱 I’m currently learning web designing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
